@@ -6,4 +6,4 @@ def hello():
     print(f"Hello, {message}!")
 
 if __name__ == "__main__":
-    hello
+    hello()
